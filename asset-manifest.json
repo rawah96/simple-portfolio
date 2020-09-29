@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/simple-portfolio/static/css/main.c4b02a71.chunk.css",
+    "main.js": "/simple-portfolio/static/js/main.e5098f71.chunk.js",
+    "main.js.map": "/simple-portfolio/static/js/main.e5098f71.chunk.js.map",
+    "runtime-main.js": "/simple-portfolio/static/js/runtime-main.3cc36f48.js",
+    "runtime-main.js.map": "/simple-portfolio/static/js/runtime-main.3cc36f48.js.map",
+    "static/js/2.c8b18b02.chunk.js": "/simple-portfolio/static/js/2.c8b18b02.chunk.js",
+    "static/js/2.c8b18b02.chunk.js.map": "/simple-portfolio/static/js/2.c8b18b02.chunk.js.map",
+    "index.html": "/simple-portfolio/index.html",
+    "precache-manifest.413f77338e5f9c86b3a37cfeb42666b3.js": "/simple-portfolio/precache-manifest.413f77338e5f9c86b3a37cfeb42666b3.js",
+    "service-worker.js": "/simple-portfolio/service-worker.js",
+    "static/css/main.c4b02a71.chunk.css.map": "/simple-portfolio/static/css/main.c4b02a71.chunk.css.map",
+    "static/js/2.c8b18b02.chunk.js.LICENSE.txt": "/simple-portfolio/static/js/2.c8b18b02.chunk.js.LICENSE.txt",
+    "static/media/agile.png": "/simple-portfolio/static/media/agile.d347ab42.png",
+    "static/media/art.jpg": "/simple-portfolio/static/media/art.5c5704b5.jpg",
+    "static/media/css.png": "/simple-portfolio/static/media/css.75e4d6d5.png",
+    "static/media/git.png": "/simple-portfolio/static/media/git.bde6d1ec.png",
+    "static/media/github.svg": "/simple-portfolio/static/media/github.9f31da4b.svg",
+    "static/media/html.png": "/simple-portfolio/static/media/html.31039a53.png",
+    "static/media/mongodb.png": "/simple-portfolio/static/media/mongodb.3d40302b.png",
+    "static/media/nodejs.png": "/simple-portfolio/static/media/nodejs.55e83371.png",
+    "static/media/python.png": "/simple-portfolio/static/media/python.182e9823.png",
+    "static/media/react.png": "/simple-portfolio/static/media/react.f297dfcd.png",
+    "static/media/sql.png": "/simple-portfolio/static/media/sql.e4d536b1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3cc36f48.js",
+    "static/js/2.c8b18b02.chunk.js",
+    "static/css/main.c4b02a71.chunk.css",
+    "static/js/main.e5098f71.chunk.js"
+  ]
+}
