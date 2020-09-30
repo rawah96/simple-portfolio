@@ -1,0 +1,95 @@
+.navbar {
+    padding: 20px;
+    position: sticky;
+    top: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 40px;
+    border-bottom: 1px solid lightgray;
+    background-color: rgb(17, 17, 17);
+}
+
+
+.dev:hover {
+    transform: scale(1.4);
+}
+
+.contact-btn, .github-btn {
+    text-transform: inherit;
+    font-size: 15px;
+}
+
+.github-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 4px;
+    padding-left: 10px;
+    border: 0.5px solid white;
+    font-weight: 900;
+    border-radius: 5px;
+}
+
+.github-btn > img {
+    width: 20px;
+    margin: 5px;
+}
+
+.github-btn:hover, .contact-btn:hover {
+   text-decoration: none;
+   background-color: rgb(128, 125, 125);
+   transition: all 1s ease;
+}
+
+.contact-btn {
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10.5px;
+    border: 0.5px solid white;
+    font-weight: 900;
+    border-radius: 5px;
+}
+
+@keyframes animate {
+    from {
+        transform: scale(1);
+    } to {
+        transform: scale(1.5);
+    }
+}
+
+h2 > a {
+    text-decoration: none;
+    color: rgba(253, 177, 190, 0.568);
+}
+
+.navbar > ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.navbar > ul > li {
+    list-style: none;
+    padding: 10px;
+}
+
+li > a {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+/* li > a:hover {
+    text-decoration: pink underline;
+} */
+
+li:hover {
+    transform: scale(1.2);
+}

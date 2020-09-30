@@ -1,0 +1,103 @@
+.projects {
+    color: white;
+    padding: 20px;
+}
+
+.screenshot {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* padding-bottom: 30px; */
+    border: 1px solid white;
+    height: 180px;
+    margin-bottom: 15px;
+    width: 300px;
+    cursor: pointer;
+    background: black;
+}
+.project-title {
+    letter-spacing: 2px;
+    display: grid;
+    place-items: center;
+    padding-bottom: 20px;
+}
+
+p {
+    /* display: grid;
+    place-items: center; */
+    padding: 10px;
+}
+
+.tech-stack {
+    padding-top: 10px;
+    font-size: 12px;
+    color: gray;
+    text-transform: uppercase;
+    padding-bottom: 20px;
+}
+
+.project-btns {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.github-link > a {
+    text-decoration: none;
+}
+
+.demo-link > a {
+    text-decoration: none;
+    font-weight: 600;
+    color: black;
+    font-size: 17px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.github-link {
+    width: 45%;
+    height: 50px;
+    cursor: pointer;
+    background-color: white;
+    border-radius: 15px;
+    outline: none;
+    border: none;
+    font-size: 16px;
+    font-weight: 100;
+}
+
+.links {
+    font-weight: 100;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.github-link > a >  h4 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    color: black;
+    letter-spacing: 2px;
+}
+
+.github-link > a > img {
+    width: 30px;
+}
+
+.demo-link {
+    width: 45%;
+    height: 50px;
+    cursor: pointer;
+    background-color: white;
+    border-radius: 15px;
+    outline: none;
+    border: none;
+}
+
+.demo-link:hover, .github-link:hover {
+    color: white;
+    background: gray;
+    transition: all 1s ease;
+}
