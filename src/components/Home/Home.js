@@ -9,7 +9,7 @@ import git from './git.png'
 import html from './html.png'
 import mongodb from './mongodb.png'
 import node from './nodejs.png'
-import python from './python.png'
+// import python from './python.png'
 import sql from './sql.png'
 import react from './react.png';
 import redux from './redux.png'
@@ -30,7 +30,7 @@ function Home() {
                 <img src={react} width="8%" alt="react" />
                 <img src={redux} width="8%" alt="" />
                 <img src={git} width="8%" alt="git" />
-                <img src={python} width="8%" alt="python" />
+                {/* <img src={python} width="8%" alt="python" /> */}
             </div>
 
 
