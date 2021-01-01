@@ -19,9 +19,9 @@ function Home() {
         <div className="double">
         <div className="home">
             {/* <h1 className="intro-h1">Web Developer by Choice, Computer Scientist by Degree</h1> */}
-            <h2 className="intro-h2">Passionate for Creating Responsive Web Apps</h2>
+            <h2 className="intro-h2">Passionate About Creating Responsive Web Applications</h2>
             <br />
-            <h3 className="tech-text">EXPERTISE</h3>
+            <h3 className="tech-text">SKILLS</h3>
             {/* ADD names of the frameworks on hover ..  */}
 
             <div className="techs-1">
@@ -50,44 +50,96 @@ function Home() {
             <div className="project-box">
                 <Projects 
                 projectName="Netflix Clone"
-                techStack="Reactjs | Material UI | React Router Dom | TMDB"
-                githubLink="https://github.com/rawah96/netflix-clone"
-                demoLink=""
+                techStack="Reactjs | Material UI | React Router Dom | TMDB | CSS"
+                githubLink="netflix-clone"
+                demoLink="/rawah96.github.io/netflix-clone"
                 image="https://cdn.vox-cdn.com/thumbor/T0YRuZUcXIzNYfl6O_89Rx7yQzo=/39x0:3111x2048/1220x813/filters:focal(39x0:3111x2048):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/49901753/netflixlogo.0.0.png"
                 />
             </div>
-
             <div className="project-box">
                 <Projects 
                     projectName="Hulu Clone"
-                    techStack="Reactjs | Material UI | React Router Dom | TMDB"
-                    githubBtn=""
-                    demoBtn=""
+                    techStack="Reactjs | Material UI | React Router Dom | TMDB | CSS"
+                    githubLink="hulu"
+                    demoLink="/rawah96.github.io/hulu"
                     image="https://assetshuluimcom-a.akamaihd.net/h3o/facebook_share_thumb_default_hulu.jpg"
                 />
             </div>
-
             <div className="project-box">
-                <Projects
-                projectName=""
-                techStack=""
-                githubBtn=""
-                demoBtn=""
-                image=""
+                <Projects 
+                    projectName="covid-dashboard"
+                    techStack="React | Material UI | React Router Dom | CSS"
+                    githubLink="covid-dashboard"
+                    demoLink="/rawah96.github.io/covid-dashboard"
+                    image="https://www.flaticon.com/svg/static/icons/svg/3017/3017381.svg"
                 />
             </div>
-
             <div className="project-box">
-                <Projects />
+                <Projects 
+                    projectName="CAPSTONE EMS"
+                    techStack="React | Material UI | React Router Dom | CSS"
+                    githubLink="ems-project"
+                    demoLink="helicopter-ems-calculator.herokuapp.com"
+                    image="https://www.cityofkyle.com/sites/default/files/styles/gallery500/public/imageattachments/fire/page/4301/ems-image.png?itok=rbKa4cND"
+                />
             </div>
-
             <div className="project-box">
-                <Projects />
+                <Projects 
+                    projectName="MERN STORE"
+                    techStack="React | Redux | Node | Express | MongoDB |  Material UI | React Router Dom | CSS"
+                    githubLink="fullstack-store"
+                    demoLink="mern-stack-store-project.herokuapp.com"
+                    image="https://image.freepik.com/free-vector/pattern-about-shopping_1061-495.jpg"
+                />
             </div>
-
             <div className="project-box">
-                <Projects />
+                <Projects 
+                    projectName="NIKE CLONE"
+                    techStack="React | MaterialUI | React Router Dom | CSS"
+                    githubLink="nike-clone"
+                    demoLink="nike-clone"
+                    image="https://i1.wp.com/sportsfinding.com/wp-content/uploads/2020/02/nike-swoosh-wikipedia.jpg?fit=580%2C350&ssl=1"
+                />
             </div>
+            <div className="project-box">
+                <Projects 
+                    projectName="PORTFOLIO"
+                    techStack="React | MaterialUI | React Router Dom | CSS"
+                    githubLink="portfolio1"
+                    demoLink="portfolio1"
+                    image="https://rawah96.github.io/portfolio1/static/media/employee.d7a755dc.svg"
+                />
+            </div>
+            <div className="project-box">
+                <Projects 
+                    projectName="YOUTUBE CLONE"
+                    techStack="React | MaterialUI | React Router Dom | CSS"
+                    githubLink="youtube-clone"
+                    demoLink="youtube-clone"
+                    image="https://upload.wikimedia.org/wikipedia/commons/e/e1/Logo_of_YouTube_%282015-2017%29.svg"
+                />
+            </div>
+            <div className="project-box">
+                <Projects 
+                    projectName="PORTFOLIO"
+                    techStack="React | MaterialUI | GreenSock | React Router Dom | CSS"
+                    githubLink="portfolio"
+                    demoLink="portfolio"
+                    image=""
+                />
+            </div>
+            <div className="project-box">
+                <Projects 
+                    projectName="Discord Clone"
+                    techStack="React | Redux | MaterialUI | Google Auth | CSS"
+                    githubLink="discord"
+                    demoLink="discord"
+                    image="https://cybernews.com/wp-content/uploads/2020/07/Discord-privacy-tips-that-you-should-use-.jpg"
+                />
+            </div>
+            {/* TWITTER  + LinkedIN + AMAZON + whatsapp + facebook + google + 
+            dashboard + 
+            */}
         </div>
         </div>
     )
