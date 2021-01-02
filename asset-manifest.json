@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/simple-portfolio/static/css/main.1e309feb.chunk.css",
-    "main.js": "/simple-portfolio/static/js/main.930b62dd.chunk.js",
-    "main.js.map": "/simple-portfolio/static/js/main.930b62dd.chunk.js.map",
+    "main.js": "/simple-portfolio/static/js/main.cb76d4fc.chunk.js",
+    "main.js.map": "/simple-portfolio/static/js/main.cb76d4fc.chunk.js.map",
     "runtime-main.js": "/simple-portfolio/static/js/runtime-main.3cc36f48.js",
     "runtime-main.js.map": "/simple-portfolio/static/js/runtime-main.3cc36f48.js.map",
     "static/js/2.08404a9d.chunk.js": "/simple-portfolio/static/js/2.08404a9d.chunk.js",
     "static/js/2.08404a9d.chunk.js.map": "/simple-portfolio/static/js/2.08404a9d.chunk.js.map",
     "index.html": "/simple-portfolio/index.html",
-    "precache-manifest.31af55283c6c2f4a1edd09bba21b020d.js": "/simple-portfolio/precache-manifest.31af55283c6c2f4a1edd09bba21b020d.js",
+    "precache-manifest.092db60f7413ce179a29c2f3f3822ccc.js": "/simple-portfolio/precache-manifest.092db60f7413ce179a29c2f3f3822ccc.js",
     "service-worker.js": "/simple-portfolio/service-worker.js",
     "static/css/main.1e309feb.chunk.css.map": "/simple-portfolio/static/css/main.1e309feb.chunk.css.map",
     "static/js/2.08404a9d.chunk.js.LICENSE.txt": "/simple-portfolio/static/js/2.08404a9d.chunk.js.LICENSE.txt",
@@ -20,16 +20,16 @@
     "static/media/html.png": "/simple-portfolio/static/media/html.387273e5.png",
     "static/media/instagram.png": "/simple-portfolio/static/media/instagram.298f1f44.png",
     "static/media/mongodb.png": "/simple-portfolio/static/media/mongodb.3d40302b.png",
+    "static/media/myresume.pdf": "/simple-portfolio/static/media/myresume.22efa9e1.pdf",
     "static/media/nodejs.png": "/simple-portfolio/static/media/nodejs.55e83371.png",
     "static/media/react.png": "/simple-portfolio/static/media/react.47ce6e77.png",
     "static/media/redux.png": "/simple-portfolio/static/media/redux.1535aa30.png",
-    "static/media/resume.pdf": "/simple-portfolio/static/media/resume.2e580b75.pdf",
     "static/media/sql.png": "/simple-portfolio/static/media/sql.e4d536b1.png"
   },
   "entrypoints": [
     "static/js/runtime-main.3cc36f48.js",
     "static/js/2.08404a9d.chunk.js",
     "static/css/main.1e309feb.chunk.css",
-    "static/js/main.930b62dd.chunk.js"
+    "static/js/main.cb76d4fc.chunk.js"
   ]
 }
