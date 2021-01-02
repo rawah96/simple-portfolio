@@ -13,9 +13,11 @@ function Footer({name}) {
     return (
         <>
         <div className="reach-me">
-            <h1 className="contact-title">Reach ME!</h1>
+            <h1 className="contact-title">Reach out to me .. !</h1>
+
+            
             {/* action .. ? */}
-            <form className="form">
+            {/* <form className="form">
                 <label for="fname">First Name</label>
                 <input type="text" id="fname" name="fname" />
                 <br />
@@ -31,7 +33,7 @@ function Footer({name}) {
                 <input className="submit" type="submit" value={document.getElementById('fname')}
                 onClick={handleClick}
                 />
-            </form>
+            </form> */}
         </div>
         <div className="footer">
             <div className="socials">
@@ -39,9 +41,9 @@ function Footer({name}) {
             <a href="https://www.github.com/rawah96"><img
                     className="git-img"
                     width="15%"src={github} alt="github" /></a>
-            <a href="https://www.instagram.com/raw3a1996"><img 
+            <a href="mailto: rawahalsinan@gmail.com"><img 
                     className="insta-img"
-                    width="15%" src={insta} alt="insta" /></a>
+                    width="15%" src={gmail} alt="insta" /></a>
             <a href="https://www.linkedin.com/feed/?trk=hb_signin"><img 
                     className="linkedin"
                     width="15%" src={linkedin} alt="linkedin" /></a>          
@@ -52,6 +54,7 @@ function Footer({name}) {
             <div className="madeby">
                 Copyright &copy; With Love by Rawah!
             </div>
+            
         </div>
         </>
     )

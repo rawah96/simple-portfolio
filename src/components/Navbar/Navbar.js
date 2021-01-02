@@ -5,7 +5,7 @@ import HomeTwoToneIcon from '@material-ui/icons/HomeTwoTone';
 import CodeTwoToneIcon from '@material-ui/icons/CodeTwoTone';
 import PersonIcon from '@material-ui/icons/Person';
 import ContactMailIcon from '@material-ui/icons/ContactMail';
-import Pdf from './resume.pdf'
+import Pdf from './myresume.pdf'
 function Navbar() {
     return (
         <nav className="navbar">
